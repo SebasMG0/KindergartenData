@@ -1,0 +1,62 @@
+[
+    {
+        "nombre":"Jardín 1",
+        "direccion":"cra 1 #1 1",
+        "barrio":"Barrio 1",
+        "telefono":320100201,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"https://www.unimagico.edu.co/wp-content/uploads/2021/08/Chia9-690x506.jpg",
+        "costo":150001,
+        "calificacion":4.1
+    },
+    {
+        "nombre":"Jardín 2",
+        "direccion":"cra 2 #2 2",
+        "barrio":"Barrio 2",
+        "telefono":3201002002,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"http://farm9.staticflickr.com/8033/8069630016_4fc4f2dd62.jpg",
+        "costo":150002,
+        "calificacion":4.2
+    },
+    {
+        "nombre":"Jardín 3",
+        "direccion":"cra 3 #3 3",
+        "barrio":"Barrio 3",
+        "telefono":3201002003,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"https://www.munistgo.cl/wp-content/uploads/2020/12/DSC_4179ss-810x440.jpg",
+        "costo":150003,
+        "calificacion":4.3
+    },
+    {
+        "nombre":"Jardín 4",
+        "direccion":"cra 4 #4 4",
+        "barrio":"Barrio 4",
+        "telefono":3201002004,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"https://bogota.gov.co/sites/default/files/styles/1050px/public/jardin_jorge_bejarano.jpg",
+        "costo":150004,
+        "calificacion":4.4
+    },
+    {
+        "nombre":"Jardín 5",
+        "direccion":"cra 5 #5 5",
+        "barrio":"Barrio 5",
+        "telefono":3201002005,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawC5JkW6W21XIDE-OcwDkmvVdwzrzqHAzjpm35FAxn4d2CcrRtLkoCL1EbCuGuS9wWEs&usqp=CAU",
+        "costo":150005,
+        "calificacion":4.5
+    },
+    {
+        "nombre":"Jardín 6",
+        "direccion":"cra 6 #6 6",
+        "barrio":"Barrio 6",
+        "telefono":3201002006,
+        "paginaWeb":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zNsukBAY2__5w2xjESaM2enfNlSVXcEYOJPjO98FICMjH6fKmYACaWN7_GjMGJtjt8c&usqp=CAU",
+        "costo":150006,
+        "calificacion":4.6
+    }
+]

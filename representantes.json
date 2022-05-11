@@ -1,0 +1,56 @@
+[
+    {
+        "nombre":"Rodolfo Fernandez",
+        "edad":32,
+        "identificacion":1004100200,
+        "sexo":"m"
+    },
+    {
+        "nombre":"Fernando Rodriguez",
+        "edad":23,
+        "identificacion":1004100201,
+        "sexo":"m"
+    },
+    {
+        "nombre":"Maria Gonzales",
+        "edad":20,
+        "identificacion":1004100202,
+        "sexo":"f"
+    },
+    {
+        "nombre":"Isabella Perez",
+        "edad":34,
+        "identificacion":1004100203,
+        "sexo":"f"
+    },
+    {
+        "nombre":"Diana Gómez",
+        "edad":30,
+        "identificacion":1004100204,
+        "sexo":"f"
+    },
+    {
+        "nombre":"Alberto Castro",
+        "edad":22,
+        "identificacion":1004100205,
+        "sexo":"m"
+    },
+    {
+        "nombre":"Luis Molina",
+        "edad":25,
+        "identificacion":1004100206,
+        "sexo":"m"
+    },
+    {
+        "nombre":"Fernanda Cuellar",
+        "edad":25,
+        "identificacion":1004100207,
+        "sexo":"f"
+    },
+    {
+        "nombre":"Andrea Rojas",
+        "edad":27,
+        "identificacion":1004100208,
+        "sexo":"f"
+    }
+]
